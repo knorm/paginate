@@ -8,7 +8,4 @@
 Pagination plugin for
 [@knorm/knorm](https://www.npmjs.com/package/@knorm/knorm).
 
-## [Documentation](https://knorm.netlify.com/plugins/paginate.html)
-
-View the docs on @knorm/knorm's documentation site
-[here](https://knorm.netlify.com/plugins/paginate.html).
+## Moved to https://github.com/knorm/knorm/tree/master/packages/paginate
